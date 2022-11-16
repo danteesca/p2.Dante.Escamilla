@@ -13,4 +13,4 @@ In my mirror I chose to take a fairly symetrical design pattern with a number of
 
 ### The Mirror:
 
-![Mirror](assets/p5.js - Google Chrome 11_15_2022 10_48_38 PM.png)
+![Mirror](https://github.com/danteesca/p2.Dante.Escamilla/blob/main/assets/p5.js%20-%20Google%20Chrome%2011_15_2022%2010_48_38%20PM.png)
