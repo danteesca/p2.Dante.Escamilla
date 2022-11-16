@@ -18,3 +18,7 @@ In my mirror I chose to take a fairly symetrical design pattern with a number of
 ![Mirror](https://github.com/danteesca/p2.Dante.Escamilla/blob/main/assets/p5.js%20-%20Google%20Chrome%2011_15_2022%2010_48_38%20PM.png)
 
 *NOTE: While it may be hard to see them in the screenshot, there are arrows next to each of the main elements to switch between the pages.*
+
+### Notes for the Repo Overall:
+
+The index.html file that is used for the prject was renamed as "webpage.html" when placed in this repo so that the presentation page will render. 
